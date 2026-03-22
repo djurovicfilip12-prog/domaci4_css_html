@@ -1,0 +1,25 @@
+
+.My_Photo{
+    width:350px;
+    border-radius:40px;
+}
+
+
+
+.My_name{
+    color:rgb(1, 1, 12);
+    text-decoration: underline;
+}
+
+.Nice_Look_Text{
+    color:rgb(141, 123, 22)
+}
+
+.social_icons{
+    width: 25px;
+    margin:5px;
+}
+
+.In_middle{
+text-align: center;
+}
